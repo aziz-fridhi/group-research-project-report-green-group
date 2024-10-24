@@ -2,7 +2,7 @@
 
 ## Make the following text into a third-level heading. 
 
-Third-Level Heading
+Third-Level Heading 
 
 ## Make the word "bold" bold in the following sentence. 
 
@@ -25,7 +25,7 @@ If you do not know the answer to the question, please click here.
 Item 1
 Item 2
 Item 3
-
+1234
 ## Turn the following into an unordered list.
 
 Item 1
