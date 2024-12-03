@@ -14,7 +14,42 @@
 hi how are you?
 
 ## Methodology
-... 
+
+### Survey Design
+
+The survey was designed to get a view of public perceptions of electric cars across three generations, focusing on Generation Z. This research aimed to provide actionable insights for the marketing department in an automotive company in order to better align strategies with consumer attitudes and preferences.
+
+To ensure a comprehensive understanding of the generations’ opinion, the survey included a variety of question types:
+- **Likert Scale Questions**: These questions measured for example respondents' attitudes toward electric cars on a scale from 1 (strongly disagree) to 5 (strongly agree), which was one of our survey’s key primer data sources. They addressed topics such as environmental impact, affordability, and technological appeal. This format enabled us to identify trends and subtle differences in perception across demographic groups.
+- **Multiple-Choice Questions**: These questions explored factors influencing respondents’ likelihood of purchasing an electric car. Options included cost, charging infrastructure, maintenance, and brand reputation, allowing participants to select multiple factors that shaped their decisions.
+- **Yes/No Questions**: Simple binary questions provided direct insights into specific perceptions, such as whether respondents viewed electric cars as practical or believed they were affordable.
+- **Open-Ended Questions**: To complement quantitative data too, participants were offered to share additional thoughts, suggestions, or concerns in their own words. These qualitative responses offered additional insights to our team.
+
+The survey was designed to be short and easily understandable, requiring only 5–10 minutes to complete.
+
+The final survey can be accessed through this link: https://docs.google.com/forms/d/1Xb3nvls27Mth0lLDyDlT7EFrK2yDOdNp9GOzV6Fl1Go/edit
+
+---
+
+### Sampling Method
+
+Our sample consisted of 72 respondents, evenly distributed across three age groups: Generation Z (12–27 years), Millennials (28–43 years), and a group named "Others" (44+ years). This segmentation allowed for meaningful comparisons of generational differences in attitudes toward electric cars.
+
+
+
+Participants were selected using a **convenience sampling** approach. The survey link was distributed through social media platforms, email, chat messages and university networks. While this method ensured time- and cost-effective data collection, it also had limitations, such as potential biases in demographic representation, but the even distribution across age groups helped us mitigate this limitation, allowing for balanced generational analysis.
+
+The final results of the survey can be accessed through this link: https://docs.google.com/spreadsheets/d/1GyM7JHhVxcj0OoRC747jSfet3JVdP77eJH2KR-wtbiI/edit?gid=341420139#gid=341420139
+
+---
+
+### Data Collection Process
+
+The survey was conducted online using **Google Forms**, a tool chosen for its user-friendliness and compatibility with various devices. The form remained open for approximately one week, giving respondents flexibility to participate at their convenience. This approach allowed for rapid and efficient data collection.
+
+When closing the survey, the raw data was exported in **CSV format** for further analysis. The dataset was cleaned by us to ensure accuracy and consistency. This involved only a few steps, such as removing incomplete responses, eliminating duplicates.
+
+Data analysis was conducted using **Python**, with a particular focus on the **Seaborn library** for creating visualizations. Descriptive statistics, like mean scores were calculated to summarize responses. Additionally, bar charts and other visual tools were used to illustrate differences in perception across age groups. Open-ended responses were manually reviewed.
 
 ## Results
 ##Data Format and Structure:
