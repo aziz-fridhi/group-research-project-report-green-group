@@ -108,4 +108,5 @@ In this step, we’ll create bar charts to visually compare how each generation 
 ... 
 
 ## References
-... 
+Link to our survey: https://docs.google.com/forms/d/1Xb3nvls27Mth0lLDyDlT7EFrK2yDOdNp9GOzV6Fl1Go/edit
+We did not use any references, just like with the presentation, we used what we learned in class.
