@@ -35,8 +35,6 @@ The final survey can be accessed through this link: https://docs.google.com/form
 
 Our sample consisted of 72 respondents, evenly distributed across three age groups: Generation Z (12–27 years), Millennials (28–43 years), and a group named "Others" (44+ years). This segmentation allowed for meaningful comparisons of generational differences in attitudes toward electric cars.
 
-
-
 Participants were selected using a **convenience sampling** approach. The survey link was distributed through social media platforms, email, chat messages and university networks. While this method ensured time- and cost-effective data collection, it also had limitations, such as potential biases in demographic representation, but the even distribution across age groups helped us mitigate this limitation, allowing for balanced generational analysis.
 
 The final results of the survey can be accessed through this link: https://docs.google.com/spreadsheets/d/1GyM7JHhVxcj0OoRC747jSfet3JVdP77eJH2KR-wtbiI/edit?gid=341420139#gid=341420139
