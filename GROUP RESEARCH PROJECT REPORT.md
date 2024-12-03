@@ -96,6 +96,7 @@ Based on the results, Generation Z has a generally positive perception of electr
 Regarding the belief in electric cars' importance for climate change, Millennials hold the strongest conviction, with a score of 0.79, indicating that nearly 80% of this group sees electric cars as essential for addressing climate issues. Generation Z also shows a high level of support (0.71 or 71%), while the Other age group demonstrates more skepticism, with a lower score of 0.47 (47%). These results indicate that Millennials and Generation Z generally see electric cars as beneficial, particularly for environmental efforts, while the Other age group may have more varied views on their impact.
 #Step 7: Visualization of Results
 In this step, we’ll create bar charts to visually compare how each generation perceives electric cars. Visualizations help us see trends and differences more clearly than numerical tables, making it easier to interpret the findings.
+![alt text](https://raw.githubusercontent.com/IBS-International-Business-School/group-research-project-report-green-group/refs/heads/main/Graphs/5.JPG)
 ## Discussion
 ... 
 
