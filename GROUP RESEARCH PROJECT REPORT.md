@@ -117,7 +117,7 @@ These steps can provide further insight into how strategies should be targeted t
 ## Reflection
 
 ###  Innovation in Electric Cars: Connecting Generations and Driving Change
-Innovation is a driving force behind the electric vehicle (EV) revolution, shaping how brands like Aston Martin adapt to the preferences of younger generations such as Generation Z (Gen Z) and Millennials. Insights from the 11th slide of the presentation highlight generational attitudes toward EVs, emphasizing the need for innovation to strengthen connections and enhance perceptions.
+Innovation is a driving force behind the electric vehicle (EV) revolution, shaping how brands like Aston Martin adapt to the preferences of younger generations such as Generation Z (Gen Z) and Millennials. The presentation highlight generational attitudes toward EVs, emphasizing the need for innovation to strengthen connections and enhance perceptions.
 
 ###  Bridging Perception Gaps with Technology
 The Electric Cars Perception Survey reveals that while all generations generally hold a positive view of EVs, Gen Z has a slightly lower perception compared to Millennials and older groups. Addressing this gap requires advancing EV technology to align with the expectations of a digitally savvy generation. Innovations like longer battery life, faster charging, and AI-powered features, including autonomous driving, cater to Gen Z’s preference for seamless and tech-forward solutions.
