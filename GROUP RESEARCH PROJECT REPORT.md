@@ -13,11 +13,12 @@
 ## Introduction
 # Research on Gen Z and Electric Cars: ***A Case Study for Aston Martin***
 
-![Electri car](https://github.com/IBS-International-Business-School/group-research-project-report-green-group/blob/main/Graphs/GettyImages-1406257864-1-e1697854403551.webp)
 
 The automotive industry is changing quickly, and electric vehicles (EVs) are becoming an important part of innovation, sustainability, and growth. With rising concerns about climate change and governments supporting green energy, car companies worldwide are shifting their focus. For luxury car brands like ***Aston Martin***, known for their classic designs and strong heritage, it is essential to adapt to these changes to stay relevant and competitive. 
 
 This research looks at what Generation Z thinks about electric cars. This group is becoming an important customer base and will influence future trends in society and the market. Our research showed an interesting result: even though sustainability is a big global topic, Gen Z **doesn’t** have a very positive view of electric cars. This is both a challenge and an opportunity for Aston Martin.
+
+![Electri car](https://github.com/IBS-International-Business-School/group-research-project-report-green-group/blob/main/Graphs/GettyImages-1406257864-1-e1697854403551.webp)
 
 ## Research Objective
 
