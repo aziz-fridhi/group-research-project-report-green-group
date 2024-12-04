@@ -3,7 +3,7 @@
 ## Team Members:
 1. Hamid Ezoji
 2. Behrad Khamenehmohammadi 
-3. ... 
+3. Veronika Kránicz
 4. ... 
 5. Deepkumar Jogani
 
