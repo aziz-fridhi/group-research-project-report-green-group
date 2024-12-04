@@ -50,55 +50,66 @@ When closing the survey, the raw data was exported in **CSV format** for further
 Data analysis was conducted using **Python**, with a particular focus on the **Seaborn library** for creating visualizations. Descriptive statistics, like mean scores were calculated to summarize responses. Additionally, bar charts and other visual tools were used to illustrate differences in perception across age groups. Open-ended responses were manually reviewed.
 
 ## Results
-##Data Format and Structure:
-The survey responses are stored in a CSV file, which includes:
-1. **Demographics:**
-Age group and gender.
-2. **Perceptions and Attitudes:**
-Responses to questions about general perception of electric cars, likelihood to purchase, and perceived importance for climate change.
-3. **Behavioral Insights:** Questions related to past experiences with electric cars, such as whether respondents have driven or been a passenger in one.
 
-#Steps to Achieve the Analysis
-To address the objective, we'll go through the following steps in the project:
-1.   **Setup and Data Loading:** We’ll start by setting up the environment with necessary libraries and loading the CSV data to ensure everything is ready for analysis.
-2.   **Data Cleaning and Preprocessing:**
-Here, we’ll examine the dataset for issues like missing values, inconsistent formatting, and extra whitespace in column names. This step ensures our data is clean and standardized for accurate analysis.
-3. **Generation Segmentation:**
-We’ll create a new column to categorize respondents into generational groups (e.g., Generation Z, Millennials) based on their age group. This segmentation allows us to make generational comparisons.
-4. **Extracting Relevant Data for Analysis:**
-We’ll select only the relevant columns related to perception and attitudes for analysis. Dropping irrelevant columns helps to focus on key information.
-5. **Data Transformation for Quantitative Analysis:**
-Certain survey responses (e.g., "Yes" or "No" answers) will be converted into numerical values to allow statistical comparisons.
-6. **Calculating Averages by Generation:**
-For each generation, we’ll calculate average values for perception scores and likelihood to consider buying an electric car. This step provides numerical insights into how perceptions differ among generations.
-7. **Visualization of Results:**
-Finally, we’ll visualize the differences in perception and attitudes across generations using bar charts. This step will clearly display trends and help answer the initial research question.
-8. **Conclusion and Interpretation:**
-Based on the visualizations and calculated metrics, we’ll interpret the findings to determine if Generation Z has a more positive perception of electric cars.
-#Step 1: Setting Up the Environment and Importing Data
-In this step, we’ll import the necessary libraries for data analysis and visualization. This is essential because each library has a specific role in handling and visualizing our data:
-
-pandas: Used for loading, cleaning, and manipulating our survey data.
-seaborn: Allows us to create clear and aesthetically pleasing visualizations.
-matplotlib.pyplot: Provides additional customization options for our plots.
-#Step 2: Data Cleaning and Preprocessing
-In this step, we’ll clean up the data by removing any extra spaces from column names. This ensures consistency when referring to columns in our code, especially if some columns have leading or trailing spaces. We’ll also quickly review the column names to make sure they’re what we expect.
-#Step 3: Generation Segmentation
-In this step, we’ll categorize respondents into generational groups (such as Generation Z and Millennials) based on their age group. This segmentation will help us compare the perceptions of electric cars across different generations.
-#Step 4: Extracting Relevant Data for Analysis
-In this step, we’ll select only the columns relevant to our analysis, focusing on the generational group, perception of electric cars, likelihood of purchasing in the next 5 years, and belief in their importance for climate change. This allows us to concentrate on the data needed for answering our research question.
-#Step 5: Data Transformation for Quantitative Analysis
-In this step, we’ll convert specific responses, like "Yes" and "No," to numerical values. This conversion will allow us to calculate meaningful averages for each generation, making it easier to compare their beliefs quantitatively.
-#Step 6: Calculating Averages by Generation
-In this step, we’ll calculate the average perception scores and likelihood to consider purchasing electric cars for each generation. This gives us a summary view of how each generation perceives electric cars and their interest in them.
-Based on the results, Generation Z has a generally positive perception of electric cars, with an average score of 2.33 for overall perception and 2.71 for the likelihood of purchasing one in the next five years. This score is slightly lower than that of Millennials, whose perception and likelihood scores are 2.54 and 2.54, respectively. Interestingly, the Other age group has the highest likelihood score of 3.07, suggesting stronger interest in purchasing electric cars, though this group’s general perception of electric cars (2.60) is similar to the other generations.
-
-Regarding the belief in electric cars' importance for climate change, Millennials hold the strongest conviction, with a score of 0.79, indicating that nearly 80% of this group sees electric cars as essential for addressing climate issues. Generation Z also shows a high level of support (0.71 or 71%), while the Other age group demonstrates more skepticism, with a lower score of 0.47 (47%). These results indicate that Millennials and Generation Z generally see electric cars as beneficial, particularly for environmental efforts, while the Other age group may have more varied views on their impact.
-#Step 7: Visualization of Results
-In this step, we’ll create bar charts to visually compare how each generation perceives electric cars. Visualizations help us see trends and differences more clearly than numerical tables, making it easier to interpret the findings.
 ![alt text](https://raw.githubusercontent.com/IBS-International-Business-School/group-research-project-report-green-group/refs/heads/main/Graphs/5.JPG)
+
+### Perception Across Age Groups
+Apparent generational differences in attitudes toward electric cars are evident from our findings:
+
+- **Gen Z**: With an average rating of **2.33**, it shows neutrality biased a little toward negativity. This may reflect hesitation or skepticism toward the purchase of electric vehicles within the Gen Z population.
+- **Millennials**: With an average score of **2.54**, millennials are moderately positive, meaning interest and acceptance are on the rise.
+- **Age 44+**: With the highest index of **2.60**, they had the best view about electric cars among the cohorts.
+
+Overall, the data underlines a positive general attitude toward electric cars, though Generation Z lags in this enthusiasm.
+
+### Likelihood of Purchasing
+Generational differences exist when looking at how probable it is that electric cars would be bought:
+
+- **Generation Z**: Scored **2.71**, indicating openness to buying electric vehicles but with some reservations.
+- **Millennials**: They record an average score of **2.54** and are relatively less interested compared to Gen Z but demonstrate interest at a moderate rate.
+- **Age 44+**: Scored **3.07**, the highest among all groups, indicating a stronger willingness to adopt electric cars.
+
+### Belief in the Impact of Climate Change
+The survey also asked about perceptions of the role electric cars play in combating climate change:
+
+- **Generation Z**: **71%** believe electric cars will be important to solving climate problems.
+- **Millennials**: **79%** showed the most belief in the environmental merits of electric cars.
+- **Aged 44 and over**: Only **47%** agreed, reflecting more skepticism about how effective they can be in dealing with environmental concerns.
+
+These results show that there is an opportunity to reach Generation Z and Millennials more effectively with electric vehicle sustainability campaigns.
+
 ## Discussion
-... 
+
+### Interpreting the Results
+The data shows that Gen Z demonstrates moderate interest but is rather more neutral towards electric cars, presumably because of concerns over affordability, practical utility, or cultural relevance.  
+Millennials, being normally environmentally conscious and financially secure, exhibit a positive perception and a moderate likelihood to buy.  
+The oldest generations generally become the most enthusiastic, maybe due to greater financial resources or established environmental awareness.
+
+### Strategic Implications
+These groups can be engaged effectively by Aston Martin through the following strategies:
+
+- **Gen Z Targeted Campaigns**: Utilize social media influencers and digital storytelling to indicate how electric cars align with sustainability and modern values.
+- **Affordability in Models for Millennials**: Entry-level luxury models bridge the aspirational appeal to affordability for Millennials.
+- **Messaging for Older Groups**: Emphasizing themes of reliability, novelty, and environmental friendliness would further nurture their positive attitudes.
+
+### Limitations and Challenges
+This study has a number of limitations:
+
+- **Small Sample Size**: The sample size in this project is small, with only 72 participants, which may not allow generalization.
+- **Self-Reported Data**: Survey responses may be biased by participants' current state of knowledge and beliefs.
+- **Simplified Age Groups**: The division into broad categories may mask the subtle differences that exist within each group.
+
+Expanding the data as well as carefully selecting contacts to provide more diverse data, including other demographic variables such as income and location, and using methods to reduce bias in self-reporting data are recommended to address these limitations.
+
+### Future Research Directions
+For further research, the following areas can be explored:
+
+- **Cultural Trends**: How different cultural backgrounds can shape people's attitudes towards electric cars.
+- **Technological Awareness**: Explore knowledge gaps across generations regarding relevant technological advancements in electric vehicle technology.
+- **Economic Barriers**: Investigate how economic barriers to adoption, such as purchase costs and incentives, influence consumer choice.
+
+These steps can provide further insight into how strategies should be targeted to best capture the interest of different demographics.
+
 
 ## Conclusion
 ... 
