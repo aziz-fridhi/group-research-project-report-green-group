@@ -1,7 +1,7 @@
 # Group Research Project Report
 
 ## Team Members:
-1. hamid
+1. Hamid Ezoji
 2. Behrad Khamenehmohammadi 
 3. ... 
 4. ... 
@@ -11,7 +11,41 @@
 ... 
 
 ## Introduction
-hi how are you?
+# Research on Gen Z and Electric Cars: ***A Case Study for Aston Martin***
+
+The automotive industry is changing quickly, and electric vehicles (EVs) are becoming an important part of innovation, sustainability, and growth. With rising concerns about climate change and governments supporting green energy, car companies worldwide are shifting their focus. For luxury car brands like ***Aston Martin***, known for their classic designs and strong heritage, it is essential to adapt to these changes to stay relevant and competitive. 
+
+This research looks at what Generation Z thinks about electric cars. This group is becoming an important customer base and will influence future trends in society and the market. Our research showed an interesting result: even though sustainability is a big global topic, Gen Z **doesn’t** have a very positive view of electric cars. This is both a challenge and an opportunity for Aston Martin.
+
+## Research Objective
+
+In this group project, we aim to answer the question: **How can Aston Martin connect with Generation Z and use their preferences to succeed in the electric car market?** Our goal is to give practical suggestions to Aston Martin's marketing team and help close the gap between the brand and this younger generation. 
+
+## Research Approach
+
+To achieve this, we carried out a survey to study generational attitudes toward electric cars, focusing on the factors that influence these views. We analyzed the survey data using Python and the Seaborn library, which gave us important insights into why Gen Z has a less positive view of electric cars compared to other age groups, even though they care about the environment.
+
+This project follows research methods and lean/agile principles. We worked together using GitHub, documenting every step—from designing the survey and collecting data to analyzing and interpreting results. The survey had a sample of **72** people, evenly divided into three age groups, and included both numerical and open-ended questions. This approach helped us get a detailed understanding of people’s attitudes toward electric cars.
+
+## Key Findings
+
+Our results show that:
+
+- Gen Z’s view of electric cars is neutral or slightly negative, with a positivity score of **2.33 out of 5**.  
+- Millennials scored **2.54**, and older generations scored **2.60**.  
+- Gen Z is also less likely to buy an electric car than other groups.  
+
+This means their preferences and concerns need specific attention through targeted marketing strategies.
+
+## Report Outline
+
+This report includes:
+
+1. **Methods**: A detailed explanation of our research and survey design.  
+2. **Results**: Data analysis and visualization.  
+3. **Discussion**: Implications of the findings, challenges, and marketing strategies to connect with Gen Z.  
+4. **Conclusion**: Key insights and recommendations for Aston Martin to combine their luxury brand with the values of younger generations.
+
 
 ## Methodology
 
